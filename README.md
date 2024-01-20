@@ -1,4 +1,4 @@
-# KiCad-proj
+# THIS REPO IS OUTDATED AND NO LONGER UPDATED
 KiCad projects I worked on
 ------------------------------------
 # Projects in Repository
